@@ -47,7 +47,7 @@ Feel free to reach out to me for collaboration, learning opportunities, or any k
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake](https://github.com/Turcute/github-snake.svg)
+![snake gif](https://github.com/Turcute/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
 ## 📊 GitHub Stats
 
