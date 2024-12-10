@@ -37,7 +37,7 @@ I am a **Junior Software Developer** and a **Self-Learner** with a strong intere
 Feel free to reach out to me for collaboration, learning opportunities, or any kind of advice! I love discussing coding, tech, and personal development.
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/turgutcan-taskaya)
-- 📧 [Email Me][taskayacanturgut@gmail.com](mailto:taskayacanturgut@gmail.com)
+- 📧 [taskayacanturgut@gmail.com](mailto:taskayacanturgut@gmail.com)
 
 
 ## 📌 Current Projects
