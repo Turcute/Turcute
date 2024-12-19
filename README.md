@@ -58,9 +58,6 @@ Feel free to reach out to me for collaboration, learning opportunities, or any k
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turcute&layout=compact)
 
-## 📈 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Turcute)
 
 
 
