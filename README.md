@@ -60,7 +60,7 @@ Feel free to reach out to me for collaboration, learning opportunities, or any k
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Turcute)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Turcute)
 
 
 
